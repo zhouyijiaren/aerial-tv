@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">换桌面</string>
+    <string name="guard_desc">原桌面一出现，就打开你选定的桌面应用。只看哪个窗口在前台，不读按键，也不看画面内容。</string>
+</resources>

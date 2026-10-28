@@ -28,6 +28,12 @@ Made for Xiaomi, TCL, Skyworth, Sony and other TVs sold in China, and runs on bo
 
 </div>
 
+## This fork also switches launchers
+
+Aerial's own guard only brings Aerial forward. On Xiaomi TVs the Home key stays locked to `com.mitv.tvhome`, so other launchers still do not open when you press Home.
+
+[换桌面](home-switcher/README.md) does not draw a home screen and does not disable the stock one. When the stock home comes forward, it pulls the launcher you picked. The stock home flashes first. Build and install notes are in that directory, in Chinese.
+
 ## Features
 
 <p align="center">
